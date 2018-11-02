@@ -1,4 +1,4 @@
-# Dockerfile for openssh-server image
+# Dockerfile for motion image
 
 This is a **Dockerfile** to build a docker image for **motion** based on **debian**:9.5.
 
